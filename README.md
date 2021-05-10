@@ -1,2 +1,2 @@
-# kenw-cs.github.com
+# kenw-cs.github.io
 My website
